@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.gradio/
+.DS_Store
+model.h5
+best_kidney_model_v5.h5

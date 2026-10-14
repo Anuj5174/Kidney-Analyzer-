@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.dockerignore
+*.ipynb
+*.csv
+.gradio/
+model.h5
+best_kidney_model_v5.h5
